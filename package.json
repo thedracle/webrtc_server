@@ -4,7 +4,6 @@
 	"description": "WebRTC video server",
 	"dependencies": {
 		"ws": "*",
-		"webrtc.io": "*",
-		"express": "2.5.x"
+		"webrtc.io": "*"
 	}
 }
