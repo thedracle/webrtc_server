@@ -1,1 +1,1 @@
-webrtc = require('webrtc.io').listen(process.env.PORT);
+webrtc = require('webrtc.io').listen(parseInt(process.env.PORT));
