@@ -1,0 +1,9 @@
+{
+	"name": "webrtc_server",
+	"version": "0.0.1",
+	"description": "WebRTC video server",
+	"dependencies": {
+		"ws": "*",
+		"webrtc.io": "*"
+	}
+}
